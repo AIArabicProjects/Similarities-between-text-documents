@@ -1,4 +1,4 @@
-# Similarities-between-text-documents
+# Similarity-between-text-documents
 This code is originaly from https://towardsdatascience.com/cosine-similarity-how-does-it-measure-the-similarity-maths-behind-and-usage-in-python-50ad30aad7db 
 and https://www.geeksforgeeks.org/create-inverted-index-for-file-using-python/
 this code used Python Language 
